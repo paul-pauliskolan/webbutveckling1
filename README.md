@@ -490,7 +490,7 @@ Se till att bilden ligger i samma mapp som html filen annars syns inte filen.
 
 ### 10.7.3 Klasselektorer
 
-[klassselektorer.html](./klassselektorer.html){:download="klassselektorer.html"} Högerklicka välj "ladda ner länk"
+[klassselektorer.html](./klasselektorer.html){:download="klassselektorer.html"} Högerklicka välj "ladda ner länk"
 
 [BEM](https://getbem.com/introduction/)
 
